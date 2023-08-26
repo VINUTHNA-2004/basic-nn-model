@@ -123,4 +123,4 @@ ai_brain.predict(X_n1_1)
 
 
 ## RESULT:
-
+A Basic neural network regression model for the given dataset is developed successfully.
