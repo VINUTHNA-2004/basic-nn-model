@@ -104,21 +104,23 @@ ai_brain.predict(X_n1_1)
 ```
 
 ## Dataset Information
+![ex ](https://github.com/VINUTHNA-2004/basic-nn-model/assets/95067307/7b35d6b3-b6b5-4702-8417-54b2e4c64343)
 
-Include screenshot of the dataset
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
+![ex1](https://github.com/VINUTHNA-2004/basic-nn-model/assets/95067307/51e69105-c805-49b7-8ba6-77e2a68f0a12)
 
-Include your plot here
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![ex1 2](https://github.com/VINUTHNA-2004/basic-nn-model/assets/95067307/f6388d36-08fb-4f5f-b4c0-3555e7169727)
 
 ### New Sample Data Prediction
+![ex1 1](https://github.com/VINUTHNA-2004/basic-nn-model/assets/95067307/56689ddb-31eb-456f-98be-24fc3025fffe)
 
-Include your sample input and output here
 
-## RESULT
+## RESULT:
+
